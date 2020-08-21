@@ -10,7 +10,9 @@ public class Main {
         Scanner in = new Scanner(System.in);
 
         int n = in.nextInt();
-
+        int alex = 3;
+        alex = alex + 1;
         System.out.println(n);
+        System.out.println(alex);
     }
 }
