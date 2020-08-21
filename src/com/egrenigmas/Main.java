@@ -11,7 +11,7 @@ public class Main {
 
         int n = in.nextInt();
         int alex = 3;
-        alex = alex + 1;
+        alex = alex + 1; //hi
         System.out.println(n);
         System.out.println(alex);
     }
